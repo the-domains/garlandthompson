@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GarlandThompson]]></title>
         <description><![CDATA[GarlandThompson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garlandthompson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 17:40:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 18:22:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garlandthompson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c128c65-0a12-4616-ac05-3126958aa2c6.jpg">]]></description>
-            <link>undefinedjump/index.html</link>
+            <link>https://thegrid.ai/garlandthompson/jump/index.html</link>
             <guid isPermaLink="false">c856b85d-a12c-4a85-b199-5cf6db41d2f9</guid>
-            <pubDate>Sun, 03 Apr 2016 17:39:57 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 18:22:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
