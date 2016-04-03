@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Keep It Open\n by Garland L. Thompson Jr. "
-datePublished: '2016-04-03T17:14:24.657Z'
-dateModified: '2016-04-03T17:13:47.073Z'
+datePublished: '2016-04-03T18:28:04.134Z'
+dateModified: '2016-04-03T17:14:26.886Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-keep-it-open-by-garland-l-thompson-jr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-keep-it-open-by-garland-l-thompson-jr.md
-published: true
 _type: Article
 
 ---
