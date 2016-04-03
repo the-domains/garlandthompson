@@ -1,0 +1,28 @@
+name: GarlandThompson
+favicon: null
+layout_spectrum: 0.37800080538727343
+typography_spectrum: 0.3509651601780206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7712283732835203
+  lightness: 0.28285864321514964
+  saturation: 0.036857986357063055
+  rhythmicContrast: 0.48289090814068913
+purpose: []
