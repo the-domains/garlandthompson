@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Somebody Write Me A Poem
-datePublished: '2016-04-04T05:25:45.457Z'
-dateModified: '2016-04-04T05:25:29.015Z'
+datePublished: '2016-04-04T05:37:51.781Z'
+dateModified: '2016-04-04T05:37:51.332Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-somebody-write-me-a-poem.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 Somebody Write Me A Poem
 
-Garland Lee Thompson Jr. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e1c1b7-d33d-4131-83ea-e0bae090aaf3.jpg)
+by Garland Lee Thompson Jr. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e1c1b7-d33d-4131-83ea-e0bae090aaf3.jpg)
 
 Somebody write me a poem
 
