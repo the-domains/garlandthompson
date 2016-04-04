@@ -6,27 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: Somebody Write Me A Poem
-datePublished: '2016-04-03T19:09:28.468Z'
-dateModified: '2016-04-03T18:41:16.755Z'
+datePublished: '2016-04-04T05:25:45.457Z'
+dateModified: '2016-04-04T05:25:29.015Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-somebody-write-me-a-poem.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-somebody-write-me-a-poem.md
-published: true
 url: somebody-write-me-a-poem/index.html
 _type: Article
 
 ---
 Somebody Write Me A Poem
 
-Garland Lee Thompson Jr. 
+Garland Lee Thompson Jr. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e1c1b7-d33d-4131-83ea-e0bae090aaf3.jpg)
 
-  
 Somebody write me a poem
 
 Long and sweet
@@ -81,7 +80,7 @@ is not yet a problem.
 
 These are better times,
 
-and again I think,  
+and again I think,
 
 Somebody write me a poem.
 
@@ -141,32 +140,34 @@ and I can hear every whisper.
 
 I'll take a deep breath,
 
-feeling the metaphor fully,
+feeling the metaphor fully.
 
-and when somebody writes me this poem,
+And when somebody 
 
-I'll read it every day
+writes me this poem,
 
-a thousand times before bed
+I'll read it every day,
 
-I'll learn it by heart
+a thousand times before bed.
 
-Teach it to my children
+I'll learn it by heart,
 
-Speak it til my lips turn to dust,
+teach it to my children,
 
-and on my epitaph,
+speak it til my lips turn to dust,
 
-someone will write this poem
+and on my epitaph 
+
+someone will write this poem,
 
 where I'll read it even then.
 
 Somebody write me a poem.
 
-Somebody write me a poem.
+Somebody 
 
-Somebody
+write me a poem.
 
-write me
+Somebody write me
 
 a poem.
